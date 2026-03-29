@@ -1,7 +1,15 @@
-streamlit==1.19.0
-nltk==3.9.3
-scikit-learn==1.8.0
-pandas==3.0.1
-altair==4.2.0
-numpy==2.4.3
-Pillow==12.1.1
+streamlit
+nltk
+scikit-learn
+pandas
+altair
+numpy
+Pillow
+
+# SPAM MESSAGES
+
+# 1). Congratulations! You have won a $1000 Walmart Gift Card. Click to claim
+
+# 2).WINNER!! As a valued network customer you have been selected to receive a £900 prize reward! To claim call 09061701461. Claim code KL37. Valid 12 hours only
+
+
